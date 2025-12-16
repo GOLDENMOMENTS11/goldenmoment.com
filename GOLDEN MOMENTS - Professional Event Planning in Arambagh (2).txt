@@ -1,0 +1,267 @@
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="https://miaoda-op-sourcecode.s3.us-west-2.amazonaws.com/source_code/projects/conv-87exmdg0ugow_1765852831885/logo.png">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=5.0,user-scalable=yes">
+    <title>GOLDEN MOMENTS - Professional Event Planning in Arambagh</title>
+<meta name="description" content=" FULL WEBSITE CONTENT---1. HOME PAGEWelcome to Golden Moment Event OrganizersYour celebration deserves care, creativity and reliable people. We p">
+<meta name="keywords" content="">
+<meta itemprop="image" content="">
+
+<!-- Open Graph 协议 -->
+<meta property="og:title" content="Golden Moment Event Organizers">
+<meta property="og:description" content=" FULL WEBSITE CONTENT---1. HOME PAGEWelcome to Golden Moment Event OrganizersYour celebration deserves care, creativity and reliable people. We p">
+<meta property="og:image" content="">
+<meta property="og:url" content="app-87exmdg0ugox.appmedo.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Golden Moment Event Organizers">
+<meta property="og:locale" content="zh_CN">
+
+<!-- Twitter Card 协议 -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Golden Moment Event Organizers">
+<meta name="twitter:description" content=" FULL WEBSITE CONTENT---1. HOME PAGEWelcome to Golden Moment Event OrganizersYour celebration deserves care, creativity and reliable people. We p">
+<meta name="twitter:image" content="">
+<meta name="twitter:url" content="app-87exmdg0ugox.appmedo.com/">
+<meta name="twitter:site" content="@MiaodaAI">
+
+<link rel="icon" href="https://resource-static.cdn.bcebos.com/img/favicon.png">
+
+
+    
+    <meta name="keywords" content="event management Arambagh, wedding planner Arambagh, birthday decoration Arambagh, catering service Arambagh, event organizer Hooghly, wedding decoration, event planner West Bengal">
+    <script type="module" crossorigin="" src="https://miaoda-op-sourcecode.s3.us-west-2.amazonaws.com/source_code/projects/conv-87exmdg0ugow_1765852831885/assets/index-B4UXvtVL.js"></script>
+    <link rel="stylesheet" crossorigin="" href="https://miaoda-op-sourcecode.s3.us-west-2.amazonaws.com/source_code/projects/conv-87exmdg0ugow_1765852831885/assets/index-pHLwef1y.css">
+    <script>
+              (function () {
+                const redirect = new URLSearchParams(location.search).get('redirect');
+                if (redirect && redirect !== location.pathname) {
+                  history.replaceState(null, '', redirect);
+                }
+              })();
+            </script><style>ins[class*="adsbygoogle"],ins[class*="adsbyadop"],[id*="div-gpt-ad"],amp-ad{display:none !important;}</style><style>ins[class*="adsbygoogle"],ins[class*="adsbyadop"],[id*="div-gpt-ad"],amp-ad{display:none !important;}</style>
+    <link rel="stylesheet" id="fonts-code" href="https://miaoda-font.cdn.bcebos.com/static/font_v1/fonts-code.css">
+  <script src="https://miaoda-resource-static.s3cdn.medo.dev/runtime-inject/domain-static/online/1.0.37.1/static/miaoda-external.js?tm=1765871727131" async=""></script><style>ins[class*="adsbygoogle"],ins[class*="adsbyadop"],[id*="div-gpt-ad"],amp-ad{display:none !important;}</style><style id="sb_cln_style">ins[class*="adsbygoogle"],ins[class*="adsbyadop"],[id*="div-gpt-ad"],amp-ad{display:none !important;}</style><style type="text/css">.md-h5 #md-h5-iframe {
+  position: absolute;
+  transform: translate(-50%);
+  transform-origin: top;
+  left: 50%;
+  width: 377px;
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  overflow: auto;
+}
+
+#md-float-tools .ChatUI-Agent-Chat,
+#md-float-tools .ChatUI-Agent-Waker {
+  position: fixed;
+}
+
+@media (min-width: 768px) {
+  .md-h5 #md-h5-iframe {
+    top: 25px;
+    bottom: 25px;
+  }
+  .md-h5 #md-float-tools,
+  .md-h5 .taro-tabbar__container,
+  .md-h5 #root {
+    display: none;
+  }
+  .md-h5 .MobilePreview-Container-QRCode {
+    display: block;
+  }
+}
+
+#md-h5-iframe iframe {
+  border: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+.MobilePreview {
+  width: 100%;
+  height: 100%;
+}
+
+.MobilePreview-Container-QRCode {
+  padding: 12px;
+  background: #f2f2f4;
+  border-radius: 12px;
+  position: absolute;
+  top: 50%;
+  left: calc(50% - 188.5px - 24px);
+  width: 124px;
+  transform: translate(-100%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  display: none;
+}
+
+.MobilePreview-Container-QRCode #md-qrcode {
+  display: block;
+  margin: 0;
+}
+
+.MobilePreview-Container-QRCode .code-desc {
+  margin-bottom: 12px;
+  text-align: center;
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #091221;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+.MobilePreview-Container-QRCode .qrcode-container {
+  padding: 0;
+  width: 100px;
+}
+
+#md-float-tools .ChatBox-single-input {
+  color: #333;
+}
+
+.WebPage-Mobile-Scan-QrCode-Container-Runtime-Inject-JS {
+  padding: 12px;
+  background: #f7f7f9;
+  position: absolute;
+  top: 50%;
+  left: calc(50% - 188.5px - 24px);
+  transform: translate(-100%, -50%);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.WebPage-Mobile-Scan-QrCode-Container-Runtime-Inject-JS .WebPage-Mobile-Scan-QrCode-Title {
+  display: flex;
+  align-items: center;
+}
+
+.WebPage-Mobile-Scan-QrCode-Container-Runtime-Inject-JS .WebPage-Mobile-Scan-QrCode-Icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNNS4yNSA4LjA2MjVWNi4yNUM1LjI1IDUuNjk3NzIgNS42OTc3MiA1LjI1IDYuMjUgNS4yNUg4LjA2MjUiIHN0cm9rZT0iIzQ5NTM2NiIKICAgIHN0cm9rZS13aWR0aD0iMS4zIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+CiAgPHBhdGggZD0iTTE1LjkzNzUgNS4yNUgxNy43NUMxOC4zMDIzIDUuMjUgMTguNzUgNS42OTc3MiAxOC43NSA2LjI1VjguMDYyNSIgc3Ryb2tlPSIjNDk1MzY2IgogICAgc3Ryb2tlLXdpZHRoPSIxLjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgLz4KICA8cGF0aCBkPSJNOC4wNjI1IDE4Ljc1SDYuMjVDNS42OTc3MiAxOC43NSA1LjI1IDE4LjMwMjMgNS4yNSAxNy43NVYxNS45Mzc1IiBzdHJva2U9IiM0OTUzNjYiCiAgICBzdHJva2Utd2lkdGg9IjEuMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiAvPgogIDxwYXRoIGQ9Ik0xOC43NSAxNS45Mzc1VjE3Ljc1QzE4Ljc1IDE4LjMwMjMgMTguMzAyMyAxOC43NSAxNy43NSAxOC43NUgxNS45Mzc1IiBzdHJva2U9IiM0OTUzNjYiCiAgICBzdHJva2Utd2lkdGg9IjEuMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiAvPgogIDxwYXRoIGQ9Ik01LjI1IDEySDE4Ljc1IiBzdHJva2U9IiM0OTUzNjYiIHN0cm9rZS13aWR0aD0iMS4zIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+Cjwvc3ZnPgo=");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.WebPage-Mobile-Scan-QrCode-Container-Runtime-Inject-JS .WebPage-Mobile-Scan-QrCode-Text {
+  font-family: PingFang SC;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #000000;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.WebPage-Mobile-Scan-QrCode-Item-Container {
+  min-height: 0;
+  padding: 11px;
+  background: #fff;
+  box-sizing: border-box;
+  width: 132px;
+  height: 132px;
+  border-radius: 8px;
+  border: 1px solid #eaeef2;
+  margin-top: 9px;
+}
+
+.WebPage-Mobile-Scan-QrCode-Item-Container-MiniApp-QrCode-Container {
+  width: 132px;
+  height: 132px;
+  border-radius: 8px;
+  border: 1px solid #eaeef2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  margin-top: 12px;
+}
+
+.WebPage-Mobile-Scan-QrCode-Item-Container-MiniApp-QrCode {
+  width: 120px;
+  height: 120px;
+  user-drag: none;
+  -webkit-user-drag: none;
+}</style><meta name="description" content="GOLDEN MOMENTS – Professional event planning and decoration service in Arambagh. We manage weddings, birthdays, corporate and political events with décor, catering, photography, lighting, sound and full event support. Premium service with honest pricing." data-rh="true"></head>
+  <body class="dark:bg-gray-900">
+    <div id="root"><div class="flex flex-col min-h-screen"><header class="bg-card shadow-card sticky top-0 z-50 border-b border-border"><nav class="max-w-7xl mx-auto px-4 xl:px-8"><div class="flex justify-between items-center h-20"><a class="flex items-center gap-3 group" href="/" data-discover="true"><img src="/logo.png" alt="GOLDEN MOMENTS Logo" class="w-12 h-12 object-contain transition-transform group-hover:scale-105"><div class="flex flex-col"><span class="text-xl font-bold gradient-text">GOLDEN MOMENTS</span><span class="text-xs text-muted-foreground">Event Organizers</span></div></a><div class="hidden xl:flex items-center gap-1"><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth bg-primary text-primary-foreground" href="/" data-discover="true">Home</a><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth text-foreground hover:bg-accent hover:text-accent-foreground" href="/about" data-discover="true">About Us</a><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth text-foreground hover:bg-accent hover:text-accent-foreground" href="/services" data-discover="true">Services</a><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth text-foreground hover:bg-accent hover:text-accent-foreground" href="/wedding-packages" data-discover="true">Wedding Packages</a><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth text-foreground hover:bg-accent hover:text-accent-foreground" href="/birthday-packages" data-discover="true">Birthday Packages</a><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth text-foreground hover:bg-accent hover:text-accent-foreground" href="/gallery" data-discover="true">Gallery</a><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth text-foreground hover:bg-accent hover:text-accent-foreground" href="/why-choose-us" data-discover="true">Why Choose Us</a><a class="px-4 py-2 text-sm font-medium rounded-lg transition-smooth text-foreground hover:bg-accent hover:text-accent-foreground" href="/faq" data-discover="true">FAQ</a><a class="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2 ml-4 gradient-gold shadow-elegant" href="/contact" data-discover="true">Book Now</a><button class="ml-2 p-2 rounded-lg hover:bg-accent transition-smooth" aria-label="Toggle theme"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon w-5 h-5 text-foreground" aria-hidden="true"><path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path></svg></button></div><div class="flex xl:hidden items-center gap-2"><button class="p-2 rounded-lg hover:bg-accent transition-smooth" aria-label="Toggle theme"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon w-5 h-5 text-foreground" aria-hidden="true"><path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path></svg></button><button class="p-2 rounded-lg hover:bg-accent transition-smooth" aria-label="Toggle menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu w-6 h-6" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg></button></div></div></nav></header><main class="flex-grow pb-16 xl:pb-0"><div class="relative h-[500px] xl:h-[600px] flex items-center justify-center overflow-hidden"><div class="absolute inset-0 bg-cover bg-center" style="background-image: url(&quot;https://miaoda-site-img.s3cdn.medo.dev/images/00452303-8b58-4a21-8ad7-fc142b81df04.jpg&quot;);"><div class="absolute inset-0 bg-gradient-to-r from-secondary/90 to-secondary/70"></div></div><div class="relative z-10 max-w-4xl mx-auto px-4 text-center"><p class="text-primary text-sm xl:text-base font-semibold mb-4 tracking-wide uppercase">GOLDEN MOMENTS</p><h1 class="text-4xl xl:text-6xl font-bold text-primary-foreground mb-6 leading-tight">Your Celebration Deserves Care, Creativity and Reliable People</h1><p class="text-lg xl:text-xl text-secondary-foreground/90 mb-8 leading-relaxed max-w-2xl mx-auto">Professional event planning and decoration service in Arambagh, Hooghly. From weddings to corporate events, we bring your vision to life.</p><a class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-10 rounded-md gradient-gold shadow-elegant text-lg px-8 py-6" href="/contact" data-discover="true">Book Your Event</a></div></div><section class="py-16 xl:py-24 bg-background"><div class="max-w-7xl mx-auto px-4 xl:px-8"><div class="text-center mb-12"><h2 class="text-3xl xl:text-4xl font-bold mb-4">Our Services</h2><p class="text-lg text-muted-foreground max-w-2xl mx-auto">Comprehensive event management solutions for every occasion</p></div><div class="grid grid-cols-1 xl:grid-cols-3 gap-6"><div data-slot="card" class="bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-card hover:shadow-elegant transition-smooth group"><div data-slot="card-header" class="@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6"><div class="w-14 h-14 rounded-lg gradient-gold flex items-center justify-center mb-4 group-hover:scale-110 transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles w-7 h-7 text-primary-foreground" aria-hidden="true"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"></path><path d="M20 2v4"></path><path d="M22 4h-4"></path><circle cx="4" cy="20" r="2"></circle></svg></div><div data-slot="card-title" class="font-semibold text-xl">Wedding Planning</div></div><div data-slot="card-content" class="px-6"><p class="text-muted-foreground leading-relaxed">Complete wedding management from décor to catering, making your special day unforgettable.</p></div></div><div data-slot="card" class="bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-card hover:shadow-elegant transition-smooth group"><div data-slot="card-header" class="@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6"><div class="w-14 h-14 rounded-lg gradient-gold flex items-center justify-center mb-4 group-hover:scale-110 transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-party-popper w-7 h-7 text-primary-foreground" aria-hidden="true"><path d="M5.8 11.3 2 22l10.7-3.79"></path><path d="M4 3h.01"></path><path d="M22 8h.01"></path><path d="M15 2h.01"></path><path d="M22 20h.01"></path><path d="m22 2-2.24.75a2.9 2.9 0 0 0-1.96 3.12c.1.86-.57 1.63-1.45 1.63h-.38c-.86 0-1.6.6-1.76 1.44L14 10"></path><path d="m22 13-.82-.33c-.86-.34-1.82.2-1.98 1.11c-.11.7-.72 1.22-1.43 1.22H17"></path><path d="m11 2 .33.82c.34.86-.2 1.82-1.11 1.98C9.52 4.9 9 5.52 9 6.23V7"></path><path d="M11 13c1.93 1.93 2.83 4.17 2 5-.83.83-3.07-.07-5-2-1.93-1.93-2.83-4.17-2-5 .83-.83 3.07.07 5 2Z"></path></svg></div><div data-slot="card-title" class="font-semibold text-xl">Birthday Celebrations</div></div><div data-slot="card-content" class="px-6"><p class="text-muted-foreground leading-relaxed">Creative birthday decorations and entertainment for all ages, from kids to adults.</p></div></div><div data-slot="card" class="bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-card hover:shadow-elegant transition-smooth group"><div data-slot="card-header" class="@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6"><div class="w-14 h-14 rounded-lg gradient-gold flex items-center justify-center mb-4 group-hover:scale-110 transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-building w-7 h-7 text-primary-foreground" aria-hidden="true"><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M12 6h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M16 6h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path><path d="M8 6h.01"></path><path d="M9 22v-3a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3"></path><rect x="4" y="2" width="16" height="20" rx="2"></rect></svg></div><div data-slot="card-title" class="font-semibold text-xl">Corporate Events</div></div><div data-slot="card-content" class="px-6"><p class="text-muted-foreground leading-relaxed">Professional event management for corporate gatherings, conferences, and team building.</p></div></div><div data-slot="card" class="bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-card hover:shadow-elegant transition-smooth group"><div data-slot="card-header" class="@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6"><div class="w-14 h-14 rounded-lg gradient-gold flex items-center justify-center mb-4 group-hover:scale-110 transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-users w-7 h-7 text-primary-foreground" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><path d="M16 3.128a4 4 0 0 1 0 7.744"></path><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><circle cx="9" cy="7" r="4"></circle></svg></div><div data-slot="card-title" class="font-semibold text-xl">Political Events</div></div><div data-slot="card-content" class="px-6"><p class="text-muted-foreground leading-relaxed">Large-scale event coordination for political rallies, meetings, and public gatherings.</p></div></div><div data-slot="card" class="bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-card hover:shadow-elegant transition-smooth group"><div data-slot="card-header" class="@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6"><div class="w-14 h-14 rounded-lg gradient-gold flex items-center justify-center mb-4 group-hover:scale-110 transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart w-7 h-7 text-primary-foreground" aria-hidden="true"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"></path></svg></div><div data-slot="card-title" class="font-semibold text-xl">Engagement &amp; Anniversaries</div></div><div data-slot="card-content" class="px-6"><p class="text-muted-foreground leading-relaxed">Romantic setups and elegant decorations for your special milestones.</p></div></div><div data-slot="card" class="bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-card hover:shadow-elegant transition-smooth group"><div data-slot="card-header" class="@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6"><div class="w-14 h-14 rounded-lg gradient-gold flex items-center justify-center mb-4 group-hover:scale-110 transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lightbulb w-7 h-7 text-primary-foreground" aria-hidden="true"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg></div><div data-slot="card-title" class="font-semibold text-xl">Cultural Programs</div></div><div data-slot="card-content" class="px-6"><p class="text-muted-foreground leading-relaxed">School, college, and community cultural event management with full technical support.</p></div></div></div></div></section><section class="py-16 xl:py-24 bg-gradient-to-br from-primary/10 via-background to-secondary/10 relative overflow-hidden"><div class="absolute inset-0 bg-grid-pattern opacity-5"></div><div class="max-w-7xl mx-auto px-4 xl:px-8 relative z-10"><div class="text-center mb-12"><div class="inline-flex items-center gap-2 bg-primary/10 px-6 py-2 rounded-full mb-6"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe w-5 h-5 text-primary" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg><span class="text-sm font-semibold text-primary uppercase tracking-wide">Expanding Horizons</span></div><h2 class="text-3xl xl:text-5xl font-bold mb-6 gradient-text">We Serve All Over India &amp; Internationally</h2><p class="text-lg xl:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">While based in Arambagh, Hooghly, our expertise and dedication know no boundaries. We bring the same care, creativity, and professionalism to events across India and abroad.</p></div><div class="grid grid-cols-1 xl:grid-cols-3 gap-8 mt-12"><div class="bg-card/80 backdrop-blur-sm p-8 rounded-xl shadow-elegant hover:shadow-glow transition-smooth border border-primary/20"><div class="w-16 h-16 rounded-full gradient-gold flex items-center justify-center mb-6 mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pin w-8 h-8 text-primary-foreground" aria-hidden="true"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg></div><h3 class="text-xl font-bold text-center mb-4">Local Expertise</h3><p class="text-muted-foreground text-center leading-relaxed">Proudly serving Arambagh, Hooghly, and all nearby districts in West Bengal with personalized local service.</p></div><div class="bg-card/80 backdrop-blur-sm p-8 rounded-xl shadow-elegant hover:shadow-glow transition-smooth border border-primary/20"><div class="w-16 h-16 rounded-full gradient-gold flex items-center justify-center mb-6 mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe w-8 h-8 text-primary-foreground" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path></svg></div><h3 class="text-xl font-bold text-center mb-4">Pan-India Services</h3><p class="text-muted-foreground text-center leading-relaxed">From Kashmir to Kanyakumari, we organize events across all states with the same dedication and excellence.</p></div><div class="bg-card/80 backdrop-blur-sm p-8 rounded-xl shadow-elegant hover:shadow-glow transition-smooth border border-primary/20"><div class="w-16 h-16 rounded-full gradient-gold flex items-center justify-center mb-6 mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-plane w-8 h-8 text-primary-foreground" aria-hidden="true"><path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"></path></svg></div><h3 class="text-xl font-bold text-center mb-4">International Events</h3><p class="text-muted-foreground text-center leading-relaxed">Taking Indian celebrations global - we manage destination weddings and events in foreign countries too.</p></div></div><div class="mt-12 text-center"><div class="inline-block bg-card/60 backdrop-blur-sm px-8 py-6 rounded-xl border border-primary/20"><p class="text-lg font-semibold text-foreground mb-2">🌏 No Matter Where Your Event Is</p><p class="text-muted-foreground">We bring our expertise, creativity, and reliable service to your doorstep</p></div></div></div></section><section class="py-16 xl:py-24 bg-accent"><div class="max-w-7xl mx-auto px-4 xl:px-8"><div class="grid grid-cols-1 xl:grid-cols-2 gap-12 items-center"><div><h2 class="text-3xl xl:text-4xl font-bold mb-6">Why Choose GOLDEN MOMENTS?</h2><p class="text-lg text-muted-foreground mb-8">We are a full-service event management company based in Arambagh, Hooghly, dedicated to making your celebrations memorable and stress-free.</p><div class="space-y-4"><div class="flex items-start gap-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-check-big w-6 h-6 text-primary flex-shrink-0 mt-0.5" aria-hidden="true"><path d="M21.801 10A10 10 0 1 1 17 3.335"></path><path d="m9 11 3 3L22 4"></path></svg><span class="text-foreground">Professional planning with attention to detail</span></div><div class="flex items-start gap-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-check-big w-6 h-6 text-primary flex-shrink-0 mt-0.5" aria-hidden="true"><path d="M21.801 10A10 10 0 1 1 17 3.335"></path><path d="m9 11 3 3L22 4"></path></svg><span class="text-foreground">Modern décor options tailored to your style</span></div><div class="flex items-start gap-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-check-big w-6 h-6 text-primary flex-shrink-0 mt-0.5" aria-hidden="true"><path d="M21.801 10A10 10 0 1 1 17 3.335"></path><path d="m9 11 3 3L22 4"></path></svg><span class="text-foreground">In-house sound and lighting equipment</span></div><div class="flex items-start gap-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-check-big w-6 h-6 text-primary flex-shrink-0 mt-0.5" aria-hidden="true"><path d="M21.801 10A10 10 0 1 1 17 3.335"></path><path d="m9 11 3 3L22 4"></path></svg><span class="text-foreground">Reliable catering partners with diverse menus</span></div><div class="flex items-start gap-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-check-big w-6 h-6 text-primary flex-shrink-0 mt-0.5" aria-hidden="true"><path d="M21.801 10A10 10 0 1 1 17 3.335"></path><path d="m9 11 3 3L22 4"></path></svg><span class="text-foreground">Transparent pricing with no hidden costs</span></div><div class="flex items-start gap-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-check-big w-6 h-6 text-primary flex-shrink-0 mt-0.5" aria-hidden="true"><path d="M21.801 10A10 10 0 1 1 17 3.335"></path><path d="m9 11 3 3L22 4"></path></svg><span class="text-foreground">Full support from start to finish</span></div></div><a class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-10 rounded-md px-8 mt-8 gradient-gold shadow-elegant" href="/why-choose-us" data-discover="true">Learn More About Us</a></div><div class="grid grid-cols-2 gap-4"><div class="bg-card p-6 rounded-lg shadow-card"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-music w-10 h-10 text-primary mb-3" aria-hidden="true"><path d="M9 18V5l12-2v13"></path><circle cx="6" cy="18" r="3"></circle><circle cx="18" cy="16" r="3"></circle></svg><h3 class="font-semibold mb-2">Sound &amp; Lighting</h3><p class="text-sm text-muted-foreground">Professional audio and lighting setup</p></div><div class="bg-card p-6 rounded-lg shadow-card"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-camera w-10 h-10 text-primary mb-3" aria-hidden="true"><path d="M13.997 4a2 2 0 0 1 1.76 1.05l.486.9A2 2 0 0 0 18.003 7H20a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h1.997a2 2 0 0 0 1.759-1.048l.489-.904A2 2 0 0 1 10.004 4z"></path><circle cx="12" cy="13" r="3"></circle></svg><h3 class="font-semibold mb-2">Photography</h3><p class="text-sm text-muted-foreground">Capture every precious moment</p></div><div class="bg-card p-6 rounded-lg shadow-card"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-utensils w-10 h-10 text-primary mb-3" aria-hidden="true"><path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"></path><path d="M7 2v20"></path><path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"></path></svg><h3 class="font-semibold mb-2">Catering</h3><p class="text-sm text-muted-foreground">Delicious veg &amp; non-veg options</p></div><div class="bg-card p-6 rounded-lg shadow-card"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles w-10 h-10 text-primary mb-3" aria-hidden="true"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"></path><path d="M20 2v4"></path><path d="M22 4h-4"></path><circle cx="4" cy="20" r="2"></circle></svg><h3 class="font-semibold mb-2">Décor</h3><p class="text-sm text-muted-foreground">Creative and modern designs</p></div></div></div></div></section><section class="py-16 xl:py-24 bg-background"><div class="max-w-7xl mx-auto px-4 xl:px-8"><div class="text-center mb-12"><h2 class="text-3xl xl:text-4xl font-bold mb-4">Events We Manage</h2><p class="text-lg text-muted-foreground">From intimate gatherings to grand celebrations</p></div><div class="flex flex-wrap justify-center gap-3"><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Weddings</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Birthdays</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Engagements</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Anniversaries</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Corporate Events</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Political Events</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">School &amp; College Programs</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Cultural Events</span></div><div class="px-6 py-3 bg-card border border-border rounded-full shadow-card hover:shadow-elegant transition-smooth"><span class="font-medium text-foreground">Private Celebrations</span></div></div><div class="mt-12 text-center"><div class="mb-6"><p class="text-lg font-semibold text-foreground mb-2">📍 Service Areas</p><p class="text-muted-foreground">Based in Arambagh, Hooghly • Serving All India • International Events</p></div><div class="flex flex-col xl:flex-row gap-4 justify-center"><a class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-10 rounded-md px-8 gradient-gold shadow-elegant" href="/wedding-packages" data-discover="true">View Wedding Packages</a><a class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-10 rounded-md px-8" href="/birthday-packages" data-discover="true">View Birthday Packages</a></div></div></div></section><section class="py-16 xl:py-24 bg-secondary text-secondary-foreground"><div class="max-w-4xl mx-auto px-4 xl:px-8 text-center"><h2 class="text-3xl xl:text-4xl font-bold mb-6 text-primary-foreground">Ready to Plan Your Perfect Event?</h2><p class="text-lg text-secondary-foreground/90 mb-8">Contact us today for a free consultation and let's make your celebration unforgettable!</p><div class="flex flex-col xl:flex-row gap-4 justify-center"><a class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-10 rounded-md gradient-gold shadow-elegant text-lg px-8" href="/contact" data-discover="true">Book Now</a><a href="tel:+918276835699" class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 shadow hover:bg-primary/90 h-10 rounded-md px-8 bg-card text-foreground border-2">Call Us: +91 82768 35699</a></div></div></section></main><footer class="bg-secondary text-secondary-foreground"><div class="max-w-7xl mx-auto py-12 px-4 xl:px-8"><div class="grid grid-cols-1 xl:grid-cols-4 gap-8"><div><div class="flex items-center gap-3 mb-4"><img src="/logo.png" alt="GOLDEN MOMENTS Logo" class="w-12 h-12 object-contain"><div class="flex flex-col"><span class="text-lg font-bold text-primary-foreground">GOLDEN MOMENTS</span><span class="text-xs text-secondary-foreground/80">Event Organizers</span></div></div><p class="text-sm text-secondary-foreground/80 leading-relaxed">Your celebration deserves care, creativity and reliable people. Professional event planning and decoration service in Arambagh.</p></div><div><h3 class="text-lg font-semibold mb-4 text-primary-foreground">Quick Links</h3><div class="flex flex-col gap-2"><a class="text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth" href="/" data-discover="true">Home</a><a class="text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth" href="/about" data-discover="true">About Us</a><a class="text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth" href="/services" data-discover="true">Services</a><a class="text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth" href="/wedding-packages" data-discover="true">Wedding Packages</a><a class="text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth" href="/birthday-packages" data-discover="true">Birthday Packages</a><a class="text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth" href="/gallery" data-discover="true">Gallery</a></div></div><div><h3 class="text-lg font-semibold mb-4 text-primary-foreground">Contact Information</h3><div class="flex flex-col gap-3"><a href="tel:+918276835699" class="flex items-center gap-2 text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-phone w-4 h-4" aria-hidden="true"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"></path></svg>+91 82768 35699</a><a href="tel:+918250905436" class="flex items-center gap-2 text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-phone w-4 h-4" aria-hidden="true"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"></path></svg>+91 82509 05436</a><a href="mailto:sr.goldenmoments@gmail.com" class="flex items-center gap-2 text-sm text-secondary-foreground/80 hover:text-primary-foreground transition-smooth"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail w-4 h-4" aria-hidden="true"><path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"></path><rect x="2" y="4" width="20" height="16" rx="2"></rect></svg>sr.goldenmoments@gmail.com</a><div class="flex items-start gap-2 text-sm text-secondary-foreground/80"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pin w-4 h-4 mt-0.5 flex-shrink-0" aria-hidden="true"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg><span>Gourhati More, Arambagh, Hooghly, West Bengal</span></div></div></div><div><h3 class="text-lg font-semibold mb-4 text-primary-foreground">Service Area</h3><p class="text-sm text-secondary-foreground/80 mb-4">We serve Arambagh, Hooghly, and nearby districts in West Bengal with professional event management services.</p><a href="/contact" data-discover="true"><button class="w-full px-6 py-3 gradient-gold text-primary-foreground font-semibold rounded-lg shadow-elegant hover:shadow-lg transition-smooth">Book Your Event</button></a><div class="mt-6"><h4 class="text-sm font-semibold mb-3 text-primary-foreground">Follow Us</h4><div class="flex gap-3"><a href="https://www.instagram.com/sr.goldenmoments?igsh=MThjdXpjMGdvMjJqcw==" target="_blank" rel="noopener noreferrer" class="p-2 rounded-lg bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-smooth" aria-label="Instagram"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-instagram w-5 h-5" aria-hidden="true"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line></svg></a><a href="https://wa.me/918276835699" target="_blank" rel="noopener noreferrer" class="p-2 rounded-lg bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-smooth" aria-label="WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle w-5 h-5" aria-hidden="true"><path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"></path></svg></a><a href="https://www.facebook.com/share/1D25QhVkeL/" target="_blank" rel="noopener noreferrer" class="p-2 rounded-lg bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-smooth" aria-label="Facebook"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-facebook w-5 h-5" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a></div></div></div></div><div class="mt-12 pt-8 border-t border-secondary-foreground/20"><div class="text-center text-sm text-secondary-foreground/80 mb-4"><p class="mb-2">Event Planner in Arambagh | Wedding Decor | Birthday Decoration | Catering Service | Photography &amp; Videography | Sound &amp; Lighting | Full Event Management | Hooghly | West Bengal | All India | International Events</p><p class="text-xs text-secondary-foreground/70 mt-2">🌏 Serving Locally in Arambagh &amp; Hooghly • Pan-India Services • International Destination Events</p></div><div class="text-center text-sm text-secondary-foreground/60"><p>2025 GOLDEN MOMENTS</p></div></div></div></footer><nav class="xl:hidden fixed bottom-0 left-0 right-0 bg-card border-t border-border shadow-elegant z-50"><div class="flex justify-around items-center h-16 px-4"><a class="flex flex-col items-center justify-center gap-1 px-4 py-2 rounded-lg transition-smooth min-w-[70px] text-primary" href="/" data-discover="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-house w-5 h-5 text-primary" aria-hidden="true"><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"></path><path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg><span class="text-xs font-medium text-primary">Home</span></a><a class="flex flex-col items-center justify-center gap-1 px-4 py-2 rounded-lg transition-smooth min-w-[70px] text-muted-foreground hover:text-foreground" href="/services" data-discover="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-briefcase w-5 h-5" aria-hidden="true"><path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path><rect width="20" height="14" x="2" y="6" rx="2"></rect></svg><span class="text-xs font-medium ">Services</span></a><a class="flex flex-col items-center justify-center gap-1 px-4 py-2 rounded-lg transition-smooth min-w-[70px] text-muted-foreground hover:text-foreground" href="/gallery" data-discover="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-images w-5 h-5" aria-hidden="true"><path d="m22 11-1.296-1.296a2.4 2.4 0 0 0-3.408 0L11 16"></path><path d="M4 8a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2"></path><circle cx="13" cy="7" r="1" fill="currentColor"></circle><rect x="8" y="2" width="14" height="14" rx="2"></rect></svg><span class="text-xs font-medium ">Gallery</span></a></div></nav></div></div>
+    <script id="md-click">
+              window.mdClick = e => {
+                const target = e.target;
+                const {href, target: linkTarget} = target.dataset;
+                const appType = 'web';
+                const isBlank = linkTarget === '_blank';
+
+                if (!href) return;
+
+                e.stopPropagation();
+                e.preventDefault();
+
+                // 外部链接或新窗口打开
+                if (isBlank || href.startsWith('http')) {
+                  let finalHref = href;
+                  if (appType === 'miniapp' && !href.startsWith('http')) {
+                    finalHref = window.location.href.split('#')[0] + '#/' + href;
+                  }
+                  window.open(finalHref, linkTarget || '_self');
+                  return;
+                }
+
+                // 内部路由跳转
+                const finalHref = href.startsWith('/') ? href : '/' + href;
+                if (appType === 'miniapp') {
+                  window.location.hash = finalHref;
+                  window.dispatchEvent(new HashChangeEvent('hashchange'));
+                } else {
+                  window.history.pushState({}, '', finalHref);
+                  window.dispatchEvent(new Event('popstate'));
+                }
+              };
+              document.addEventListener('click', window.mdClick, true);
+            </script>
+    <script id="iframe-onerror-catcher">
+              const observer = new PerformanceObserver((list) => {
+                list.getEntries().forEach((entry) => {
+                  if (entry.initiatorType === 'script' && entry.responseStatus >= 400) {
+                    window.parent.postMessage({
+                      type: "RESOURCE_LOAD_ERROR",
+                      name: entry.name,
+                      status: entry.responseStatus
+                    }, "*");
+                    console.warn('[iframe-error] Resource failed:', entry.name, entry.responseStatus);
+                  }
+                });
+              });
+              observer.observe({ type: 'resource', buffered: true });
+            </script>
+  <script>
+  (function () {
+    const script = document.createElement('script');
+    script.src = 'https://miaoda-resource-static.s3cdn.medo.dev/runtime-inject/domain-static/online/1.0.37.1/static/miaoda-external.js?tm=' + new Date().getTime();
+    script.async = true;
+    script.onload = function () {
+      window.miaoda.init({
+        appId: 'app-87exmdg0ugox',
+        type: 'WEB',
+        share: {
+            title: "Golden Moment Event Organizers",
+            desc: " FULL WEBSITE CONTENT---1. HOME PAGEWelcome to Golden Moment Event OrganizersYour celebration deserves care, creativity and reliable people. We p",
+            image: "https://miaoda-screenshot-img.s3cdn.medo.dev/preview_screen/app-87exmdg0ugox/app-87exmdg0ugox_1765693203971_6aef.png"
+        }
+      });
+    };
+    document.head.appendChild(script);
+  })();
+</script>
+
+
+
+</body>
